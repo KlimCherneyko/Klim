@@ -10,14 +10,6 @@
 
 ---
 
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/QAEngineer1" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
 ---
 
 ### 📁 Тестовая документация:
@@ -71,7 +63,27 @@
   
 </div>
 
+🤝 Контакты для связи:
+
+  <div id="badges">
+    <a href="https://t.me/QAEngineer1" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
+
 ---
+  <h2>Test Artifacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/KlimCherneyko/Web_testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/KlimCherneyko/REST-and-SOAP-API-testing-via-Postman"> REST and SOAP API testing via Postman </a>   </li>
+<li> <a href="https://github.com/KlimCherneyko/MySQL>MySQL/Mongodb</a>   </li>
+<li>  <a href="https://github.com/KlimCherneyko/mobile_testing"> mobile app testing</a> </li>
+<li> <a href="https://github.com/KlimCherneyko/Bash"> Bash </a>  </li>
+<li> <a href="https://github.com/KlimCherneyko/Git"> Git </a> </li>
+</ul>
+</p>
+
 
  ### 💻 Пройденные курсы:
 
