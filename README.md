@@ -77,7 +77,7 @@
  <ul>
 <li>  <a href="https://github.com/KlimCherneyko/Web_testing">Webshop testing</a>  </li>
 <li>  <a href="https://github.com/KlimCherneyko/REST-and-SOAP-API-testing-via-Postman"> REST and SOAP API testing via Postman </a>   </li>
-<li> <a href="https://github.com/KlimCherneyko/MySQL>MySQL/Mongodb</a>   </li>
+<li> <a href="https://github.com/KlimCherneyko/MySQL">MySQL/Mongodb</a>   </li>
 <li>  <a href="https://github.com/KlimCherneyko/mobile_testing"> mobile app testing</a> </li>
 <li> <a href="https://github.com/KlimCherneyko/Bash"> Bash </a>  </li>
 <li> <a href="https://github.com/KlimCherneyko/Git"> Git </a> </li>
