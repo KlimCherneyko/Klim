@@ -9,7 +9,9 @@
 не пустой звук, командный игрок..
 
 ---
-
+<ul>
+<li>📙 Ознакомиться с <a href="https://docs.google.com/document/d/1VxvaT3cir7gO8VA7fjg5hc0liSXKL5qm/edit">CV</a></li>
+</ul>
 ---
 
 ### 📁 Тестовая документация:
