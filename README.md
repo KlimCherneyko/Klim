@@ -10,7 +10,7 @@
 
 ---
 <ul>
-<li>📙 Ознакомиться с <a href="https://docs.google.com/document/d/1VxvaT3cir7gO8VA7fjg5hc0liSXKL5qm/edit">CV</a></li>
+<li>📙 Ознакомиться с <a href="https://drive.google.com/file/d/1P_6eYP7TMSTi9Ys2fai0fWXI4I51wXbq/view?usp=sharing">CV</a></li>
 </ul>
 
 ### 📁 Тестовая документация:
